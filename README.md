@@ -1,9 +1,9 @@
-satis@tarimorman.gov.tr
-sales@tarimorman.gov.tr
-abuse@tarimorman.gov.tr
-webmaster@tarim.gov.tr
-abuse@tarim.gov.tr
-hr@tarim.gov.tr
-info@tarim.gov.tr
-ik@tarim.gov.tr
-contact@tarim.gov.tr
+* satis@tarimorman.gov.tr
+* sales@tarimorman.gov.tr
+* abuse@tarimorman.gov.tr
+* webmaster@tarim.gov.tr
+* abuse@tarim.gov.tr
+* hr@tarim.gov.tr
+* info@tarim.gov.tr
+* ik@tarim.gov.tr
+* contact@tarim.gov.tr
